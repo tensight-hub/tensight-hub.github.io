@@ -5,6 +5,6 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://github.com/tensight-hub/technical-docs.io',
+	site: 'https://tensight-hub.github.io/',
 	integrations: [mdx(), sitemap()],
 });
