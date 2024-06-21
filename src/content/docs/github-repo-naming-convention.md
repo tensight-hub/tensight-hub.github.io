@@ -51,7 +51,7 @@ In this case, the repository name should end with the country code.
 - **Taruni Clothing (India)**: `taruni-clothing-in`
 - **Taruni Clothing (US)**: `taruni-clothing-us`
 
-#### Additional Naming Guidelines
+### Additional Naming Guidelines
 - **Lowercase and Hyphens**: Repository names should be all lowercase and use hyphens (`-`) instead of spaces.
 - **Remove Special Characters**: Ensure that the repository name does not include any special characters.
 
