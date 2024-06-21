@@ -1,6 +1,6 @@
 ---
 title: 'GitHub Repo Naming Convention'
-description: 'Lorem ipsum dolor sit amet'
+description: 'GitHub Repo Naming Convention: Offers essential guidelines for naming GitHub repositories, ensuring clarity, consistency, and ease of navigation within project repositories.'
 pubDate: 'Jun 21 2024'
 active: true
 ---

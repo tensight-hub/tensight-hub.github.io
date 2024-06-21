@@ -1,6 +1,6 @@
 ---
 title: 'Git Branch Naming Convention'
-description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
+description: 'This document outlines structured naming conventions for Git branches, including formats for feature, bug, and merge branches.'
 pubDate: 'Jun 21 2024'
 active: true
 ---

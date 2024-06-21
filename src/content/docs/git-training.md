@@ -1,6 +1,6 @@
 ---
 title: 'Git Training'
-description: 'Lorem ipsum dolor sit amet'
+description: 'This document provides an overview of essential Git commands for version control. It covers why Git and GitHub are needed, how to install and configure Git, and basic Git commands for repository management.'
 pubDate: 'Jun 20 2024'
 active: true
 ---

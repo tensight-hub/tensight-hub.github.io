@@ -1,6 +1,7 @@
 ---
 title: 'Understanding Git: Workspace, Staging Area, Local Repository, and Remote Repository'
-description: 'Lorem ipsum dolor sit amet'
+description: 'This document explains the core concepts of Git, including the workspace for active project files, staging area for preparing commits, local repository for storing project history, and remote repository for collaboration and backup on servers like GitHub.
+'
 pubDate: 'Jun 21 2024'
 heroImage: '/blog-placeholder-5.jpg'
 active: true
