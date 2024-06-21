@@ -7,6 +7,8 @@ active: true
 
 This document outlines our team's GitHub workflow for managing code contributions, reviewing changes, and deploying updates for our Shopify theme. This workflow ensures that all code changes are properly reviewed on a dedicated branch (`merge branch`) before being merged into `main`, which is connected to the live Shopify theme.
 
+![GitHub Workflow Diagram](/github-workflow-diagram.jpg)
+
 ## Workflow Steps
 
 </br>
