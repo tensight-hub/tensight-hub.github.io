@@ -90,9 +90,26 @@ p {
 }
 .prose p {
 	margin-bottom: 2em;
+	position: relative;
 }
 .prose p:has(img){
+	border-radius: 10px;
+    border: 2px solid var(--accent);
 	text-align: center;
+	background: white;
+}
+.prose p:has(img):after{
+	content: "";
+    width: 100%;
+    display: block;
+    height: 100%;
+    transform: translate(-8px, 8px);
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: var(--accent);
+    z-index: -1;
+    border-radius: 10px;
 }
 textarea {
 	width: 100%;
