@@ -163,4 +163,4 @@ git fetch origin
 
 #### Next Read : 
 
-- [Understanding git workspace - staging - local - remote](/dpcs/understanding-git-workspace-staging-local-remote.md)
+- [Understanding git workspace - staging - local - remote](/docs/understanding-git-workspace-staging-local-remote.md)
